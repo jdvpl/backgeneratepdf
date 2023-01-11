@@ -1,16 +1,11 @@
-const e = require('express');
 const {response}=require('express')
-const dataJson=require('../json/data.json')
+const dataJson=require('../json/offices.json')
 
 const userGet=(req, res=response) => {
-  const {q,api,name="Saitama"}=req.query;
+  const data =dataJson;
+  const info= data.response.filter((d)=>d.idCity!=='05045' && d.idCity!=="81001");
   res.json(
-    {
-      "Get":"Desde el controller",
-      q,
-      api,
-      name
-    }
+    info
     );
 }
 

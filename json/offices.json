@@ -1,0 +1,328 @@
+{
+  "response": [
+    {
+      "idOffice": "0528",
+      "nameOffice": "Acacias",
+      "Zone": "Zona Andina",
+      "city": "ACACIAS",
+      "address": "Calle 15 # 17-31  Centro",
+      "idCity": "50006",
+      "parentid": "50000"
+    },
+    {
+      "idOffice": "0241",
+      "nameOffice": "Apartado",
+      "Zone": "Zona Antioquia Norte",
+      "city": "APARTADO",
+      "address": "Calle 99C  # 100-82 LC 109-111 Centro Comercial Plaza del Rio - Apartadó (Ant.)",
+      "idCity": "05045",
+      "parentid": "05000"
+    },
+    {
+      "idOffice": "0431",
+      "nameOffice": "Arauca",
+      "Zone": "Zona Andina",
+      "city": "ARAUCA",
+      "address": "Calle 20 # 20- 43 Centro ",
+      "idCity": "81001",
+      "parentid": "81000"
+    },
+    {
+      "idOffice": "0091",
+      "nameOffice": "Armenia Plaza",
+      "Zone": "Zona Eje Cafetero",
+      "city": "ARMENIA",
+      "address": "Carrera 14 # 20 - 12 Plaza de Bolivar ",
+      "idCity": "63001",
+      "parentid": "63000"
+    },
+    {
+      "idOffice": "0426",
+      "nameOffice": "Calle 21 Armenia",
+      "Zone": "Zona Eje Cafetero",
+      "city": "ARMENIA",
+      "address": "Calle 21 # 16- 04 ",
+      "idCity": "63001",
+      "parentid": "63000"
+    },
+    {
+      "idOffice": "0504",
+      "nameOffice": "Barrancabermeja",
+      "Zone": "Zona Oriente",
+      "city": "BARRANCABERMEJA",
+      "address": "Calle 49 # 11- 01 ",
+      "idCity": "68081",
+      "parentid": "68000"
+    },
+    {
+      "idOffice": "0632",
+      "nameOffice": "Alto Prado",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Carrera 53 No. 74 - 170",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0107",
+      "nameOffice": "Barranquilla",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Calle 39 43 84 ",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0417",
+      "nameOffice": "Boulevard 58",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Carrera58 # 75-12",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0415",
+      "nameOffice": "Calle 72",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Carrera 43 71 63",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0407",
+      "nameOffice": "Calle 84",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Calle 84 Carrera 50 Esquina",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0259",
+      "nameOffice": "Metrocentro",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Calle 45 # 1- 84 Local 1- 02 CC Metrocentro ",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0449",
+      "nameOffice": "Portal del Prado",
+      "Zone": "Zona Costa",
+      "city": "BARRANQUILLA",
+      "address": "Calle 53 No 46 – 192 LOCAL103 – 105 C.CIAL PORTAL DEL PRADO",
+      "idCity": "08001",
+      "parentid": "08000"
+    },
+    {
+      "idOffice": "0162",
+      "nameOffice": "Bello",
+      "Zone": "Zona Antioquia Norte",
+      "city": "BELLO",
+      "address": "Carrera 49 49 03",
+      "idCity": "05088",
+      "parentid": "05000"
+    },
+    {
+      "idOffice": "0464",
+      "nameOffice": "Puerta del Norte",
+      "Zone": "Zona Antioquia Norte",
+      "city": "BELLO",
+      "address": "Diagonal 55 No. 34-167 locales 2060 – 2061 Centro  Comercial PUERTA DEL NORTE, Bello Antioquia",
+      "idCity": "05088",
+      "parentid": "05000"
+    },
+    {
+      "idOffice": "0634",
+      "nameOffice": "Alcazares",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Calle 68 # 24- 04",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0039",
+      "nameOffice": "Avenida Chile",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Calle 72 # 10- 83",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0149",
+      "nameOffice": "Calle 100",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Calle 100 # 8A- 55 Local 154 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0007",
+      "nameOffice": "Castellana",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Trasversal 55 # 98 A- 66 Local 110-111",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0135",
+      "nameOffice": "Centro Andino",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 11 # 82 - 40 Local 140 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0104",
+      "nameOffice": "Centro Comercial Galerias",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Centro Comercial Galerías (Piso 3 - Local 57 y 58).",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0002",
+      "nameOffice": "Chapinero",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Calle 59 No. 10 -68",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0631",
+      "nameOffice": "Chico",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 15 # 90 - 20 Local 108 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0106",
+      "nameOffice": "Marly",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 13 # 53- 31 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0147",
+      "nameOffice": "Metropolis",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Avenida Carrera 68 75A 50 Local 101 y 102  Centro Comercial Metropolis",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0166",
+      "nameOffice": "Nogal",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 7 # 77- 83 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0105",
+      "nameOffice": "Parque Nacional",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 13 # 38- 61 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0006",
+      "nameOffice": "Siete de Agosto",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 24 # 63 D- 52 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0420",
+      "nameOffice": "Titan",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Avenida Carrera 72 # 80- 94 Local 109 C.C Titan Plaza ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0108",
+      "nameOffice": "Unicentro",
+      "Zone": "Zona Bogotá Chapinero",
+      "city": "BOGOTA",
+      "address": "Carrera 15 # 123- 30 Local 1-167",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0641",
+      "nameOffice": "Alamos",
+      "Zone": "Zona Bogotá Noroccidental",
+      "city": "BOGOTA",
+      "address": "Transversal 93 64 - 60",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0272",
+      "nameOffice": "Avenida Ciudad de Cali",
+      "Zone": "Zona Bogotá Noroccidental",
+      "city": "BOGOTA",
+      "address": "Avenida Calle 72 # 86- 60 ",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0163",
+      "nameOffice": "Calle 80",
+      "Zone": "Zona Bogotá Noroccidental",
+      "city": "BOGOTA",
+      "address": "Avenida Calle 80 # 73A- 25 Local 1 CC San Francisco",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0638",
+      "nameOffice": "Centro Suba",
+      "Zone": "Zona Bogotá Noroccidental",
+      "city": "BOGOTA",
+      "address": "Avenida 140# 91- 19 Local 4 101",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0470",
+      "nameOffice": "Diverplaza",
+      "Zone": "Zona Bogotá Noroccidental",
+      "city": "BOGOTA",
+      "address": "Calle 71 B 100 - 11 LC 203 Alamos Bogotá  Diverautos",
+      "idCity": "11001",
+      "parentid": "11000"
+    },
+    {
+      "idOffice": "0012",
+      "nameOffice": "Estrada",
+      "Zone": "Zona Bogotá Noroccidental",
+      "city": "BOGOTA",
+      "address": "Avenida Calle 72 68g - 80",
+      "idCity": "11001",
+      "parentid": "11000"
+    }
+  ]
+}
