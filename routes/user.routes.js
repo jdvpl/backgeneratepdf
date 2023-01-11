@@ -4,7 +4,7 @@ const { userGet, userPut, userPost, userDelete, userAnswer } = require('../contr
 const router=Router();
 
 
-router.get('/', userGet);
+router.get('/offices', userGet);
 router.put('/:id', userPut);
 router.post('/basic-data', userPost);
 router.post('/answer', userAnswer);
