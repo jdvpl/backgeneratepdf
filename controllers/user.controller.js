@@ -50,15 +50,40 @@ const userPost=(req, res) => {
     );
 }
 const basicData=(req,res)=>{
-  return res.json({
-    "birthDt": "1995-05-27",
-    "cellPhone": "3209188638",
-    "emailAddr": "juanda5542@hotmail.com",
-    "addr1": "CL 69g#67-62",
-    "city": "11001",
-    "firstName": "Juan",
-    "isClient": true
-})
+  const {identSerialNum}=req.body;
+  let data;
+  if(identSerialNum==="1018422010"){
+    data={
+      "birthDt": "1995-05-27",
+      "cellPhone": "3209188638",
+      "emailAddr": "juanda5542@hotmail.com",
+      "addr1": "CL 69g#67-62",
+      "city": "11001",
+      "firstName": "Eyner",
+      "isClient": true
+    }
+  }else if(identSerialNum==="1015444"){
+    data={
+      "birthDt": "1995-05-27",
+      "cellPhone": "3209188638",
+      "emailAddr": "juanda5542@hotmail.com",
+      "addr1": "CL 69g#67-62",
+      "city": "11001",
+      "firstName": "Camilo",
+      "isClient": true
+    }
+  }else{
+    data={
+      "birthDt": "1995-05-27",
+      "cellPhone": "3209188638",
+      "emailAddr": "juanda5542@hotmail.com",
+      "addr1": "CL 69g#67-62",
+      "city": "11001",
+      "firstName": "Juan",
+      "isClient": false
+    }
+  }
+  return res.json(data)
 }
 
 const userAnswer=(req,res)=>{
