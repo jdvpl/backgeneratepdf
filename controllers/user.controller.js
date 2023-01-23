@@ -29,7 +29,7 @@ const userPost=(req, res) => {
       "emailAddr": "juanda5542@hotmail.com",
       "addr1": "CL 69g#67-62",
       "city": "11001",
-      "firstName": "Juan Daniel",
+      "firstName": "Daniel",
       "isClient": false}
     }else if(identSerialNum=='1022404222'){
       data={ "birthDt": "1986-06-29",
@@ -37,7 +37,7 @@ const userPost=(req, res) => {
       "emailAddr": "camilo@hotmail.com",
       "addr1": "CL 89g#103-62",
       "city": "11001",
-      "firstName": "Juan Camilo",
+      "firstName": "Juan",
       "isClient": true}
     }else{
       data={ "birthDt": "1986-06-29",
@@ -45,7 +45,7 @@ const userPost=(req, res) => {
       "emailAddr": "camilo@hotmail.com",
       "addr1": "CL 89g#103-62",
       "city": "11001",
-      "firstName": "Juan Camilo",
+      "firstName": "Camilo",
       "isClient": true}
 
     }
