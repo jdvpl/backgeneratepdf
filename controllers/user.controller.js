@@ -29,7 +29,15 @@ const userPost=(req, res) => {
       "emailAddr": "juanda5542@hotmail.com",
       "addr1": "CL 69g#67-62",
       "city": "11001",
-      "firstName": "Juan",
+      "firstName": "Juan Daniel",
+      "isClient": false}
+    }else if(identSerialNum=='1022404222'){
+      data={ "birthDt": "1986-06-29",
+      "cellPhone": "3209188632",
+      "emailAddr": "camilo@hotmail.com",
+      "addr1": "CL 89g#103-62",
+      "city": "11001",
+      "firstName": "Juan Camilo",
       "isClient": true}
     }else{
       data={ "birthDt": "1986-06-29",
@@ -37,8 +45,9 @@ const userPost=(req, res) => {
       "emailAddr": "camilo@hotmail.com",
       "addr1": "CL 89g#103-62",
       "city": "11001",
-      "firstName": "Camilo",
-      "isClient": false}
+      "firstName": "Juan Camilo",
+      "isClient": true}
+
     }
   res.json(
     data
@@ -47,34 +56,34 @@ const userPost=(req, res) => {
 const basicData=(req,res)=>{
   const {identSerialNum}=req.body;
   let data;
-  if(identSerialNum==="1018422010"){
+  if(identSerialNum==="1077870326"){
     data={
       "birthDt": "1995-05-27",
       "cellPhone": "3209188638",
       "emailAddr": "juanda5542@hotmail.com",
       "addr1": "CL 69g#67-62",
       "city": "11001",
-      "firstName": "Eyner",
-      "isClient": true
+      "firstName": "Daniel",
+      "isClient": false
     }
-  }else if(identSerialNum==="1015444"){
+  }else if(identSerialNum==="1022404222"){
     data={
-      "birthDt": "1995-05-27",
+      "birthDt": "1995-06-13",
       "cellPhone": "3209188638",
-      "emailAddr": "juanda5542@hotmail.com",
+      "emailAddr": "camilo2345@hotmail.com",
       "addr1": "CL 69g#67-62",
       "city": "11001",
-      "firstName": "Camilo",
+      "firstName": "Juan",
       "isClient": true
     }
   }else{
     data={
       "birthDt": "1995-05-27",
       "cellPhone": "3209188638",
-      "emailAddr": "juanda5542@hotmail.com",
+      "emailAddr": "eyner@hotmail.com",
       "addr1": "CL 69g#67-62",
       "city": "11001",
-      "firstName": "Juan",
+      "firstName": "Eyner",
       "isClient": false
     }
   }
