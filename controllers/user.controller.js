@@ -25,28 +25,32 @@ const userPost=(req, res) => {
     let data={};
     if(identSerialNum==="1077870326"){
       data={ "birthDt": "1995-05-27",
-      "cellPhone": "3209188638",
-      "emailAddr": "juanda5542@hotmail.com",
-      "addr1": "CL 69g#67-62",
-      "city": "11001",
+      "cellPhone": "320●●●●●●8",
+      "emailAddr": "ju●●●●2@hotmail.com",
+      "addr1": "",
+      "currentCity": "11001",
+      "birthCity": "11001",
       "firstName": "Daniel",
       "isClient": false}
     }else if(identSerialNum=='1022404222'){
-      data={ "birthDt": "1986-06-29",
-      "cellPhone": "3209188632",
-      "emailAddr": "camilo@hotmail.com",
+      data={ 
+      "birthDt": "1986-06-29",
+      "cellPhone": "320●●●●●●2",
+      "emailAddr": "ca●●●●●●5@hotmail.com",
       "addr1": "CL 89g#103-62",
-      "city": "11001",
+      "currentCity": "11001",
+      "birthCity": "11001",
       "firstName": "Juan",
       "isClient": true}
     }else{
       data={ "birthDt": "1986-06-29",
-      "cellPhone": "3209188632",
-      "emailAddr": "camilo@hotmail.com",
+      "cellPhone": "320●●●●●●2",
+      "emailAddr": "cam●●●●●●7@hotmail.com",
       "addr1": "CL 89g#103-62",
-      "city": "11001",
+      "currentCity": "11001",
+      "birthCity": "11001",
       "firstName": "Camilo",
-      "isClient": true}
+      "isClient": false}
 
     }
   res.json(
